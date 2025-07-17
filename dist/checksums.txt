@@ -1,8 +1,8 @@
-7559732c6114a874f1d51751f5a0c99930735c88f0aa398421d08d4750009c72  serverhealth-1.0.3-darwin-amd64.tar.gz
-6f5ce92ece90c4df49dd9888048aab97eabf4f95e13022143bce579852160402  serverhealth-1.0.3-darwin-arm64.tar.gz
-a7defc27196cfd471a4620e6ec11f781e9ab99d29aa4aef3e53413a866abfacc  serverhealth-1.0.3-freebsd-amd64.tar.gz
-6ce4f544d57cc5d8f6e9f89fe2282fd5f52eee1e59cbce490453a213e8dd8c58  serverhealth-1.0.3-linux-386.tar.gz
-a407f25a69f15eb72e911046d1b078d8a71ce68b5146978a7705cb4304a75c33  serverhealth-1.0.3-linux-amd64.tar.gz
-d3817c2c40447e2c94d3382e390681a856843e446bfd4d38a34cae1214a9d924  serverhealth-1.0.3-linux-arm64.tar.gz
-390e75b6d69a1320df8323fafd2ccfdbff874892e4a49b406b2e0f8997a7d52f  serverhealth-1.0.3-windows-386.zip
-f2cfd876e377439000a0a80f466d8ec55a725d59977dd2881b666adee8fdc335  serverhealth-1.0.3-windows-amd64.zip
+a41332422fb29fb5a0038029615503d6ba0068fc88aaa864cd0e055029b38c6a  serverhealth-1.0.4-darwin-amd64.tar.gz
+861a9beb65b88f998eabc6382678e1f6dba6b843dbadbb7f9106bdc40036e588  serverhealth-1.0.4-darwin-arm64.tar.gz
+457b21c4d1a6b4c9b23e647f6cf8c3ffa886fb91e3ee4e38d9b4fa691fe9c421  serverhealth-1.0.4-freebsd-amd64.tar.gz
+0469351dd3cba180b5fc4ce2e0e060fb4d1e6de04be9738bd565745633a0e55f  serverhealth-1.0.4-linux-386.tar.gz
+07a8e36e148424d643c700fda89a23ae2af4167100df97e6256dac8436406758  serverhealth-1.0.4-linux-amd64.tar.gz
+cd89b1a7e5404487766a10f77ec7cd2d49315b5788918d208812c1b98f203b4e  serverhealth-1.0.4-linux-arm64.tar.gz
+c1ebb44c09197775eaa94e8df71458a1a6560448e57c80fcafe43017a1bc013f  serverhealth-1.0.4-windows-386.zip
+a87221aa959193c2cc4849fb9031f0566ab0fee69190daf40fe0e9a87df2d5dc  serverhealth-1.0.4-windows-amd64.zip
